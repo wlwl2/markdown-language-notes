@@ -5,6 +5,8 @@ Notes on the markdown language.
 Contains a list of info strings for code fences in 
 `docs/info-strings.md`.
 
+[List of Info Strings](docs/info-strings.md)
+
 Code fences look like this:
 ````
 ```
