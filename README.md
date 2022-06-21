@@ -1,6 +1,6 @@
 # markdown-language-notes
 
-Very helpful notes when using the markdown language on the Atom editor. Second 
+Very helpful notes about using the markdown language on the Atom editor. Second 
 level subheadings in this README.md are ordered by how often the feature/note 
 is expected to be used.
 
