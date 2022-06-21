@@ -1,7 +1,8 @@
 # markdown-language-notes
 
-Notes on the markdown language. Second level subheadings in this README.md are
-ordered by how often the feature/note is expected to be used.
+Very helpful notes when using the markdown language on the Atom editor. Second 
+level subheadings in this README.md are ordered by how often the feature/note 
+is expected to be used.
 
 # Table of Contents
 <!-- TOC START min:2 max:6 link:true asterisk:false update:true -->
