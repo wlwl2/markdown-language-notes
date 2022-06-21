@@ -4,24 +4,7 @@ Notes on the markdown language. Second level subheadings in this README.md are
 ordered by how often the feature/note is expected to be used.
 
 ## Table of Contents
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Table of Contents](#table-of-contents)
-- [Links](#links)
-	- [To The Same Document](#to-the-same-document)
-	- [My Multi Word Header](#my-multi-word-header)
-	- [Inline Links](#inline-links)
-	- [Relative links](#relative-links)
-	- [Raw URLs](#raw-urls)
-	- [Footnotes](#footnotes)
-- [Info Strings](#info-strings)
-- [GitHub Flavored Markdown Spec](#github-flavored-markdown-spec)
-- [Code fences](#code-fences)
-- [Atom Packages](#atom-packages)
-	- [Markdown Related](#markdown-related)
-	- [Not Markdown Related But Helpful](#not-markdown-related-but-helpful)
-
-<!-- /TOC -->
 
 ## Links
 
