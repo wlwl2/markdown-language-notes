@@ -68,4 +68,15 @@ I am within a code fence.
 ````
 
 ## Atom Packages
-- packages-txt by jgarber623 (https://github.com/jgarber623/packages-txt)
+
+### Markdown Related
+- atom-folding
+- folding-markdown
+- markdown-preview-enhanced
+- markdown-toc-auto
+
+### Not Markdown Related But Helpful
+- open-file
+- open-terminal-here
+- [packages-txt](https://github.com/jgarber623/packages-txt) by *jgarber623* 
+- Sublime-Style-Column-Selection
