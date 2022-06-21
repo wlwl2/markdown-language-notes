@@ -1,11 +1,10 @@
-# markdown-language
+# markdown-language-notes
 
 Notes on the markdown language. Second level subheadings in this README.md are
 ordered by how often the feature/note is expected to be used.
 
-## Table of Contents
+# Table of Contents
 <!-- TOC START min:2 max:6 link:true asterisk:false update:true -->
-- [Table of Contents](#table-of-contents)
 - [Links](#links)
   - [To The Same Document](#to-the-same-document)
   - [Inline Links](#inline-links)
