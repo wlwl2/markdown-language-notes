@@ -92,3 +92,4 @@ I am within a code fence.
 - open-terminal-here
 - [packages-txt](https://github.com/jgarber623/packages-txt) by *jgarber623* 
 - Sublime-Style-Column-Selection
+- filetree-autohide
