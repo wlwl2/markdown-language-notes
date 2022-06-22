@@ -29,8 +29,7 @@ names must be lowercase, and delimited by dashes if multi-word.
 [click on this link](#my-multi-word-header)
 ### My Multi Word Header
 ```
-Use Start Case for all your markdown headings so you can 
-easily convert them to Kebab Case in the 'Table of Contents'.
+You can use atom package `markdown-toc-auto` to generate a table of contents.
 
 ### Inline Links
 ```
