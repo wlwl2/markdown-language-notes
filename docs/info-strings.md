@@ -37,7 +37,7 @@ Language	Available language mode(s)
 - Kotlin	`kotlin, kt`
 - Liquid	`liquid`
 - Lua	`lua`
-- Markdown	`md` (not sure if `markdown` works?)
+- Markdown	`markdown`
 - Objective-C	`objc, objectivec,`
 - Objective-C++	`objc++, objcpp, objectivecpp, objectivecplusplus,`
 - OCaml	`ocaml, ml`
