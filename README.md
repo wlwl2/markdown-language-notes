@@ -84,11 +84,23 @@ for code fences.
 ## Code fences
 
 Code fences look like this:
+
 ````md
 ```
 I am within a code fence.
 ```
 ````
+
+This thing seems to work too (I don't know why). You should also check this in 
+the source file for this README.md:
+
+`````md
+````md
+```
+I am within many code fences.
+```
+````
+`````
 
 ## Double Backticks
 
