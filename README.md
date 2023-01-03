@@ -79,7 +79,7 @@ for code fences.
 
 ## GitHub Flavored Markdown Spec
 
-<https://github.github.com/gfm/>
+[https://github.github.com/gfm/](https://github.github.com/gfm/)
 
 ## Code fences
 Code fences look like this:
