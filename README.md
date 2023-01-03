@@ -29,7 +29,7 @@ is expected to be used.
 Just one # for all heading sizes, no space between # and anchor name, anchor tag
 names must be lowercase, and delimited by dashes if multi-word.
 
-```markdown
+```md
 [click on this link](#my-multi-word-header)
 ### My Multi Word Header
 ```
@@ -102,7 +102,7 @@ The backtick delimiters surrounding a code span may include spaces — one a
 the opening, one before the closing. This allows you to place literal backtick
 characters at the beginning or end of a code span:
 
-```
+```md
 A single backtick in a code span: `` ` ``
 
 A backtick-delimited string in a code span: `` `foo` ``
