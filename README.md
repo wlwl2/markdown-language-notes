@@ -5,7 +5,7 @@ level subheadings in this README.md are ordered by how often the feature/note
 is expected to be used.
 
 # Table of Contents
-<!-- TOC START min:2 max:6 link:true asterisk:false update:true -->
+<!-- TOC START min:2 max:3 link:true asterisk:false update:true -->
 - [Links](#links)
   - [To The Same Document](#to-the-same-document)
   - [Inline Links](#inline-links)
@@ -15,6 +15,7 @@ is expected to be used.
 - [Info Strings](#info-strings)
 - [GitHub Flavored Markdown Spec](#github-flavored-markdown-spec)
 - [Code fences](#code-fences)
+- [double backticks](#double-backticks)
 - [Atom Packages](#atom-packages)
   - [Markdown Related](#markdown-related)
   - [Not Markdown Related But Helpful](#not-markdown-related-but-helpful)
@@ -78,7 +79,7 @@ I am within a code fence.
 ```
 ````
 
-## double backticks
+## Double Backticks
 
 To include a literal backtick character within a code span, you can use 
 multiple backticks as the opening and closing delimiters:
