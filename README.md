@@ -78,6 +78,25 @@ I am within a code fence.
 ```
 ````
 
+## double backticks
+
+To include a literal backtick character within a code span, you can use 
+multiple backticks as the opening and closing delimiters:
+
+```md
+``There is a literal backtick (`) here.``
+```
+
+The backtick delimiters surrounding a code span may include spaces — one after
+the opening, one before the closing. This allows you to place literal backtick
+characters at the beginning or end of a code span:
+
+```
+A single backtick in a code span: `` ` ``
+
+A backtick-delimited string in a code span: `` `foo` ``
+```
+
 ## Atom Packages
 
 ### Markdown Related
