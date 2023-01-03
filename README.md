@@ -29,7 +29,7 @@ is expected to be used.
 Just one # for all heading sizes, no space between # and anchor name, anchor tag
 names must be lowercase, and delimited by dashes if multi-word.
 
-```md
+```markdown
 [click on this link](#my-multi-word-header)
 ### My Multi Word Header
 ```
@@ -37,7 +37,7 @@ You can use Atom package `markdown-toc-auto` to generate a table of contents.
 
 ### Inline Links
 
-```md
+```markdown
 [I'm an inline-style link](https://www.google.com)
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 ```
@@ -49,7 +49,7 @@ you have a README file in root of your repository, and you have another file in
 docs/CONTRIBUTING.md, the relative link to CONTRIBUTING.md in your README might
 look like this:
 
-```md
+```markdown
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 ```
 
@@ -66,7 +66,7 @@ example.com (but not on Github, for example).
 The references should always be placed at the very bottom of 
 the document, as it can skip text?
 
-```md
+```markdown
 Here is a simple footnote[^1]. With some additional text after it.
 
 [^1]: My reference.
@@ -85,7 +85,7 @@ for code fences.
 
 Code fences look like this:
 
-````md
+````markdown
 ```
 I am within a code fence.
 ```
@@ -94,8 +94,8 @@ I am within a code fence.
 This thing seems to work too (I don't know why). You should also check this in 
 the source file for this README.md:
 
-`````md
-````md
+`````markdown
+````markdown
 ```
 I am within many code fences.
 ```
@@ -107,7 +107,7 @@ I am within many code fences.
 To include a literal backtick character within a code span, you can use 
 multiple backticks as the opening and closing delimiters:
 
-```md
+```markdown
 ``There is a literal backtick (`) here.``
 ```
 
@@ -115,7 +115,7 @@ The backtick delimiters surrounding a code span may include spaces — one a
 the opening, one before the closing. This allows you to place literal backtick
 characters at the beginning or end of a code span:
 
-```md
+```markdown
 A single backtick in a code span: `` ` ``
 
 A backtick-delimited string in a code span: `` `foo` ``
