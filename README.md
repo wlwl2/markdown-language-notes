@@ -15,7 +15,7 @@ is expected to be used.
 - [Info Strings](#info-strings)
 - [GitHub Flavored Markdown Spec](#github-flavored-markdown-spec)
 - [Code fences](#code-fences)
-- [double backticks](#double-backticks)
+- [Double Backticks](#double-backticks)
 - [Atom Packages](#atom-packages)
   - [Markdown Related](#markdown-related)
   - [Not Markdown Related But Helpful](#not-markdown-related-but-helpful)
