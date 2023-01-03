@@ -37,7 +37,7 @@ You can use Atom package `markdown-toc-auto` to generate a table of contents.
 
 ### Inline Links
 
-```markdown
+```md
 [I'm an inline-style link](https://www.google.com)
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 ```
@@ -49,7 +49,7 @@ you have a README file in root of your repository, and you have another file in
 docs/CONTRIBUTING.md, the relative link to CONTRIBUTING.md in your README might
 look like this:
 
-```markdown
+```md
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 ```
 
@@ -66,7 +66,7 @@ example.com (but not on Github, for example).
 The references should always be placed at the very bottom of 
 the document, as it can skip text?
 
-```markdown
+```md
 Here is a simple footnote[^1]. With some additional text after it.
 
 [^1]: My reference.
@@ -82,8 +82,9 @@ for code fences.
 [https://github.github.com/gfm/](https://github.github.com/gfm/)
 
 ## Code fences
+
 Code fences look like this:
-````
+````md
 ```
 I am within a code fence.
 ```
@@ -111,12 +112,14 @@ A backtick-delimited string in a code span: `` `foo` ``
 ## Atom Packages
 
 ### Markdown Related
+
 - atom-folding
 - folding-markdown
 - markdown-preview-enhanced
 - markdown-toc-auto
 
 ### Not Markdown Related But Helpful
+
 - open-file
 - open-terminal-here
 - [packages-txt](https://github.com/jgarber623/packages-txt) by *jgarber623* 
