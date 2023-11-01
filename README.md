@@ -145,4 +145,4 @@ A backtick-delimited string in a code span: `` `foo` ``
 
 ### Local Image
 
-`![alt text if can't show img](Image.png "Title on mouse hover")`
+`![alt text if cannot show img](Image.png "Title on mouse hover")`
