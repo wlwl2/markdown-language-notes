@@ -53,6 +53,8 @@ look like this:
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 ```
 
+[Relative links example](docs/relative-links-example.md)
+
 [Source](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
 
 ### Raw URLs
