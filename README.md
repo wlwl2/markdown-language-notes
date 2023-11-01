@@ -21,6 +21,7 @@ is expected to be used.
   - [Markdown Related](#markdown-related)
   - [Not Markdown Related But Helpful](#not-markdown-related-but-helpful)
 - [Images](#images)
+  - [Local Image](#local-image)
 <!-- TOC END -->
 
 ## Links
@@ -141,5 +142,7 @@ A backtick-delimited string in a code span: `` `foo` ``
 - Sublime-Style-Column-Selection
 
 ## Images
+
+### Local Image
 
 `![alt text if can't show img](Image.png "Title on mouse hover")`
